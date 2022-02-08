@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on web development.
+- 🌱 I’m currently learning data engineering.
+- 📫 I'm always looking for new passions and adventures; drop me a message on [LinkedIn](https://www.linkedin.com/in/wathon-aung-43225b102/) or via email if you want to chat more!
