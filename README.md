@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web development.
 - 🌱 I’m currently learning data engineering.
-- 📫 I'm always looking for new passions and adventures; drop me a message on [LinkedIn](https://www.linkedin.com/in/wathon-aung-43225b102/) or via email if you want to chat more!
+- 📫 [LinkedIn](https://www.linkedin.com/in/wathon-aung-43225b102/)
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/Wathon_Aung?style=social)](https://twitter.com/Wathon_Aung)
