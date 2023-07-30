@@ -4,7 +4,7 @@ A motivated and driven software engineer with 7 years of experience in the indus
 
 **Technical Skills:**
 
- - Programming languages: Ruby, JavaScript, PHP,Python, C#
+ - Programming languages: Ruby, JavaScript, PHP, Python, C#
  - Databases: MySQL, PostgreSQL, SQL Server, MongoDB, Cassandra
  - Web development: HTML, CSS, JavaScript, React, Angular, Vue.js
  - Operating systems: Windows, Linux, macOS, Unix
