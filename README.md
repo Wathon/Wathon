@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A motivated and driven software engineer with 7 years of experience in the industry. Possess a strong technical background in Ruby, PHP, JavaScript, Python and a passion for developing high-quality, efficient software solutions. A quick learner with the ability to work effectively in a fast-paced and challenging environment.
+A motivated and driven software engineer with 10 years of experience in the industry. Possess a strong technical background in Ruby, PHP, JavaScript, Python and a passion for developing high-quality, efficient software solutions. A quick learner with the ability to work effectively in a fast-paced and challenging environment.
 
 **Technical Skills:**
 
