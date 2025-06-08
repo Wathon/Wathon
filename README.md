@@ -1,38 +1,33 @@
 ### Hi there 👋
 
-A motivated and driven software engineer with 10 years of experience in the industry. Possess a strong technical background in Ruby, PHP, JavaScript, Python and a passion for developing high-quality, efficient software solutions. A quick learner with the ability to work effectively in a fast-paced and challenging environment.
+I'm **Wathon Aung**, a motivated and passionate software engineer turned data engineer with **10 years of experience** in the tech industry. I have a strong foundation in software development and now specialize in building modern, scalable **data platforms** using open-source technologies.
 
-**Technical Skills:**
+💡 I'm driven by clean, reliable data and enjoy crafting reproducible, automated workflows that empower data teams and decision-makers.
 
- - Programming languages: Ruby, JavaScript, PHP, Python, C#
- - Databases: MySQL, PostgreSQL, SQL Server, MongoDB, Cassandra
- - Web development: HTML, CSS, JavaScript, React, Angular, Vue.js
- - Operating systems: Windows, Linux, macOS, Unix
- - Cloud computing: AWS, Azure, Google Cloud, Digital Ocean
- - DevOps: Docker, Terraform
- - Software development methodologies: Agile, Scrum, Kanban, Waterfall
- - Project management: JIRA, Trello, Asana
- - Source control management: Git, SVN
+🔧 Currently architecting an **on-premises data platform** using:
+**Airflow · Spark · DBT · Iceberg · Nessie · MinIO · OpenMetadata · Kubernetes**
+
 ---
-- 🔭 I’m currently working on web development.
-- 🌱 I’m currently learning data engineering.
-- 📫 [LinkedIn](https://www.linkedin.com/in/wathon-aung-43225b102/)
+
+### 🛠️ Technical Skills
+
+- **Languages:** Ruby, Python, PHP, JavaScript, C#
+- **Databases:** MySQL, PostgreSQL, SQL Server, MongoDB, Cassandra
+- **Web Dev:** HTML, CSS, React, Angular, Vue.js
+- **Cloud:** AWS, Azure, GCP, DigitalOcean
+- **DevOps:** Docker, Terraform
+- **Tools:** Git, SVN, JIRA, Trello, Asana
+- **Methodologies:** Agile, Scrum, Kanban, Waterfall
+- **OS:** Windows, Linux, macOS, Unix
+
 ---
-[![Twitter Follow](https://img.shields.io/twitter/follow/wathon_aung)](https://twitter.com/Wathon_Aung)
 
+### 📌 What I'm Up To
 
+- 🔭 Currently working on **data engineering & platform architecture**
+- 🌱 Learning more about **data architecture & lakehouse design**
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/wathon-aung-43225b102/)
 
-<!--
-**Wathon/Wathon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter Follow](https://img.shields.io/twitter/follow/wathon_aung?label=Follow%20on%20Twitter)](https://twitter.com/Wathon_Aung)
