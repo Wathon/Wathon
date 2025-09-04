@@ -11,14 +11,9 @@ I'm **Wathon Aung**, a motivated and passionate software engineer turned data en
 
 ### 🛠️ Technical Skills
 
-- **Languages:** Ruby, Python, PHP, JavaScript, C#
-- **Databases:** MySQL, PostgreSQL, SQL Server, MongoDB, Cassandra
-- **Web Dev:** HTML, CSS, React, Angular, Vue.js
+- **Language:** Python
 - **Cloud:** AWS, Azure, GCP, DigitalOcean
-- **DevOps:** Docker, Terraform
-- **Tools:** Git, SVN, JIRA, Trello, Asana
-- **Methodologies:** Agile, Scrum, Kanban, Waterfall
-- **OS:** Windows, Linux, macOS, Unix
+- **DevOps:** Docker
 
 ---
 
